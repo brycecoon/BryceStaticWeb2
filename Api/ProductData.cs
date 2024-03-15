@@ -21,14 +21,14 @@ public class ProductData : IProductData
             new Product
             {
                 Id = 10,
-                Name = "Strawberries",
+                Name = "StramBurries",
                 Description = "16oz package of fresh organic strawberries",
                 Quantity = 1
             },
             new Product
             {
                 Id = 20,
-                Name = "Sliced bread",
+                Name = "Get dat big bread",
                 Description = "Loaf of fresh sliced wheat bread",
                 Quantity = 1
             },
